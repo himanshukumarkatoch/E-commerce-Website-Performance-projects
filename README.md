@@ -5,10 +5,17 @@ A dynamic Power BI dashboard project that analyzes customer behavior, order perf
 📌 Project Overview
 This dashboard provides deep insights into how an e-commerce website is performing by analyzing customer segments, order trends, revenue, and return patterns. The goal is to help stakeholders understand:
 
+<img width="1331" height="715" alt="Screenshot 2025-07-14 200516" src="https://github.com/user-attachments/assets/8901cbcd-72bf-4f87-a753-dca221133cd8" />
+
+
 What is the total revenue generated from all completed orders?
+
 What is the distribution of customer segments (New, Returning, VIP) in the dataset?
+
 How many orders were placed from each website traffic source (Organic, Paid Ads, Referral, Direct)?
+
 What is the average session duration for users who completed their purchases?
+
 How many orders were returned, and what percentage of total orders does this represent?
 
 📊 Key Features & Visuals
